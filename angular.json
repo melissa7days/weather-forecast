@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "weather-forecast"
+    }
+  },
+  "defaultProject": "weather-forecast",
+  "cli": {
+    "analytics": false
+  }
 }
